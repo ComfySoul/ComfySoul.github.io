@@ -2619,19 +2619,19 @@
 	{
 		"abr": "persona-monoschwert",
 		"price": 5000,
-		"category": "Persona-Waffen",
+		"category": "Personawaffen",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "persona-plasmaschwert",
 		"price": 5000,
-		"category": "Persona-Waffen",
+		"category": "Personawaffen",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "persona-zeushammer",
 		"price": 5000,
-		"category": "Persona-Waffen",
+		"category": "Personawaffen",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
@@ -3614,7 +3614,7 @@
 	},
 	{
 		"abr": "stahl",
-		"price": 30,
+		"price": 3,
 		"category": "Rohstoffe",
 		"defname": "Steel"
 	},
@@ -5963,7 +5963,691 @@
 		"price": 13,
 		"category": "Drogen",
 		"defname": "VBE_Yuenyeung"
+	},
+	{
+		"abr": "neokama",
+		"price": 1800,
+		"category": "Nahkampfwaffen",
+		"defname": "Gnm_NeoKama"
+	},
+	{
+		"abr": "neoyari",
+		"price": 2875,
+		"category": "Nahkampfwaffen",
+		"defname": "Gnm_NeoYari"
+	},
+	{
+		"abr": "allosaurus",
+		"price": 4000,
+		"category": "Tiere",
+		"defname": "Allosaurus"
+	},
+	{
+		"abr": "allosaurusegg(fert.)",
+		"price": 133,
+		"category": "Ei (befr.)",
+		"defname": "EggAllosaurusFertilized"
+	},
+	{
+		"abr": "allosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Allosaurus"
+	},
+	{
+		"abr": "ankylosaurus",
+		"price": 2500,
+		"category": "Tiere",
+		"defname": "Ankylosaurus"
+	},
+	{
+		"abr": "ankylosaurusegg(fert.)",
+		"price": 67,
+		"category": "Ei (befr.)",
+		"defname": "EggAnkylosaurusFertilized"
+	},
+	{
+		"abr": "ankylosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Ankylosaurus"
+	},
+	{
+		"abr": "armoreddinosaurhide",
+		"price": 17,
+		"category": "Leder",
+		"defname": "Leather_ArmoredDino"
+	},
+	{
+		"abr": "baryonyx",
+		"price": 3667,
+		"category": "Tiere",
+		"defname": "Baryonyx"
+	},
+	{
+		"abr": "baryonyxegg(fert.)",
+		"price": 133,
+		"category": "Ei (befr.)",
+		"defname": "EggBaryonyxFertilized"
+	},
+	{
+		"abr": "baryonyxmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Baryonyx"
+	},
+	{
+		"abr": "bluefuzz",
+		"price": 12,
+		"category": "Leder",
+		"defname": "Leather_Bluefuzz"
+	},
+	{
+		"abr": "brachiosaurus",
+		"price": 5833,
+		"category": "Tiere",
+		"defname": "Brachiosaurus"
+	},
+	{
+		"abr": "brachiosaurusegg(fert.)",
+		"price": 83,
+		"category": "Ei (befr.)",
+		"defname": "EggBrachiosaurusFertilized"
+	},
+	{
+		"abr": "brachiosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Brachiosaurus"
+	},
+	{
+		"abr": "brontosaurus",
+		"price": 5833,
+		"category": "Tiere",
+		"defname": "Brontosaurus"
+	},
+	{
+		"abr": "brontosaurusegg(fert.)",
+		"price": 83,
+		"category": "Ei (befr.)",
+		"defname": "EggBrontosaurusFertilized"
+	},
+	{
+		"abr": "brontosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Brontosaurus"
+	},
+	{
+		"abr": "carnotaurus",
+		"price": 4000,
+		"category": "Tiere",
+		"defname": "Carnotaurus"
+	},
+	{
+		"abr": "carnotaurusegg(fert.)",
+		"price": 133,
+		"category": "Ei (befr.)",
+		"defname": "EggCarnotaurusFertilized"
+	},
+	{
+		"abr": "carnotaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Carnotaurus"
+	},
+	{
+		"abr": "compsognathus",
+		"price": 1250,
+		"category": "Tiere",
+		"defname": "Compsognathus"
+	},
+	{
+		"abr": "compsognathusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggCompsognathusFertilized"
+	},
+	{
+		"abr": "compsognathusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Compsognathus"
+	},
+	{
+		"abr": "corythosaurus",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Corythosaurus"
+	},
+	{
+		"abr": "corythosaurusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggCorythosaurusFertilized"
+	},
+	{
+		"abr": "corythosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Corythosaurus"
+	},
+	{
+		"abr": "dakotaraptor",
+		"price": 3333,
+		"category": "Tiere",
+		"defname": "Dakotaraptor"
+	},
+	{
+		"abr": "dakotaraptoregg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggDakotaraptorFertilized"
+	},
+	{
+		"abr": "dakotaraptormeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Dakotaraptor"
+	},
+	{
+		"abr": "deinocheirus",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Deinocheirus"
+	},
+	{
+		"abr": "deinocheirusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggDeinocheirusFertilized"
+	},
+	{
+		"abr": "deinocheirusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Deinocheirus"
+	},
+	{
+		"abr": "dilophosaurus",
+		"price": 2833,
+		"category": "Tiere",
+		"defname": "Dilophosaurus"
+	},
+	{
+		"abr": "dilophosaurusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggDilophosaurusFertilized"
+	},
+	{
+		"abr": "dilophosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Dilophosaurus"
+	},
+	{
+		"abr": "dinosaurfuzz",
+		"price": 5,
+		"category": "Leder",
+		"defname": "Leather_DinosaurFuzz"
+	},
+	{
+		"abr": "dinosaurhide",
+		"price": 5,
+		"category": "Leder",
+		"defname": "Leather_DinosaurHide"
+	},
+	{
+		"abr": "dinosaurskin",
+		"price": 3,
+		"category": "Leder",
+		"defname": "Leather_DinosaurSkin"
+	},
+	{
+		"abr": "diplodocus",
+		"price": 5833,
+		"category": "Tiere",
+		"defname": "Diplodocus"
+	},
+	{
+		"abr": "diplodocusegg(fert.)",
+		"price": 83,
+		"category": "Ei (befr.)",
+		"defname": "EggDiplodocusFertilized"
+	},
+	{
+		"abr": "diplodocusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Diplodocus"
+	},
+	{
+		"abr": "dryosaurus",
+		"price": 167,
+		"category": "Tiere",
+		"defname": "Dryosaurus"
+	},
+	{
+		"abr": "dryosaurusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggDryosaurusFertilized"
+	},
+	{
+		"abr": "dryosaurusegg(unfert.)",
+		"price": 17,
+		"category": "Ei (unbefr.)",
+		"defname": "EggDryosaurusUnfertilized"
+	},
+	{
+		"abr": "dryosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Dryosaurus"
+	},
+	{
+		"abr": "gallimimus",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Gallimimus"
+	},
+	{
+		"abr": "gallimimusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggGallimimusFertilized"
+	},
+	{
+		"abr": "gallimimusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Gallimimus"
+	},
+	{
+		"abr": "gigantoraptor",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Gigantoraptor"
+	},
+	{
+		"abr": "gigantoraptoregg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggGigantoraptorFertilized"
+	},
+	{
+		"abr": "gigantoraptormeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Gigantoraptor"
+	},
+	{
+		"abr": "iguanodon",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Iguanodon"
+	},
+	{
+		"abr": "iguanodonegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggIguanodonFertilized"
+	},
+	{
+		"abr": "iguanodonmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Iguanodon"
+	},
+	{
+		"abr": "magyarosaurus",
+		"price": 2833,
+		"category": "Tiere",
+		"defname": "Magyarosaurus"
+	},
+	{
+		"abr": "magyarosaurusegg(fert.)",
+		"price": 33,
+		"category": "Ei (befr.)",
+		"defname": "EggMagyarosaurusFertilized"
+	},
+	{
+		"abr": "magyarosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Magyarosaurus"
+	},
+	{
+		"abr": "minmi",
+		"price": 1167,
+		"category": "Tiere",
+		"defname": "Minmi"
+	},
+	{
+		"abr": "minmiegg(fert.)",
+		"price": 67,
+		"category": "Ei (befr.)",
+		"defname": "EggMinmiFertilized"
+	},
+	{
+		"abr": "minmimeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Minmi"
+	},
+	{
+		"abr": "pachycephalosaurus",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Pachycephalosaurus"
+	},
+	{
+		"abr": "pachycephalosaurusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggPachycephalosaurusFertilized"
+	},
+	{
+		"abr": "pachycephalosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Pachycephalosaurus"
+	},
+	{
+		"abr": "parasaur",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Parasaur"
+	},
+	{
+		"abr": "parasauregg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggParasaurFertilized"
+	},
+	{
+		"abr": "parasaurmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Parasaur"
+	},
+	{
+		"abr": "protoceratops",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Protoceratops"
+	},
+	{
+		"abr": "protoceratopsegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggProtoceratopsFertilized"
+	},
+	{
+		"abr": "protoceratopsmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Protoceratops"
+	},
+	{
+		"abr": "pteranodon",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Pteranodon"
+	},
+	{
+		"abr": "pteranodonegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggPteranodonFertilized"
+	},
+	{
+		"abr": "pteranodonegg(unfert.)",
+		"price": 17,
+		"category": "Ei (unbefr.)",
+		"defname": "EggPteranodonUnfertilized"
+	},
+	{
+		"abr": "pteranodonmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Pteranodon"
+	},
+	{
+		"abr": "pterosaurskin",
+		"price": 3,
+		"category": "Leder",
+		"defname": "Leather_PterosaurSkin"
+	},
+	{
+		"abr": "quetzalcoatlus",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Quetzalcoatlus"
+	},
+	{
+		"abr": "quetzalcoatlusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggQuetzalcoatlusFertilized"
+	},
+	{
+		"abr": "quetzalcoatlusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Quetzalcoatlus"
+	},
+	{
+		"abr": "raptorleather",
+		"price": 5,
+		"category": "Leder",
+		"defname": "Leather_Raptor"
+	},
+	{
+		"abr": "redhide",
+		"price": 7,
+		"category": "Leder",
+		"defname": "Leather_Redhide"
+	},
+	{
+		"abr": "sauropodleather",
+		"price": 6,
+		"category": "Leder",
+		"defname": "Leather_Sauropod"
+	},
+	{
+		"abr": "spinosaurus",
+		"price": 4667,
+		"category": "Tiere",
+		"defname": "Spinosaurus"
+	},
+	{
+		"abr": "spinosaurusegg(fert.)",
+		"price": 133,
+		"category": "Ei (befr.)",
+		"defname": "EggSpinosaurusFertilized"
+	},
+	{
+		"abr": "spinosaurusleather",
+		"price": 13,
+		"category": "Leder",
+		"defname": "Leather_Spinosaurus"
+	},
+	{
+		"abr": "spinosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Spinosaurus"
+	},
+	{
+		"abr": "stegosaurus",
+		"price": 2500,
+		"category": "Tiere",
+		"defname": "Stegosaurus"
+	},
+	{
+		"abr": "stegosaurusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggStegosaurusFertilized"
+	},
+	{
+		"abr": "stegosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Stegosaurus"
+	},
+	{
+		"abr": "stygimoloch",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Stygimoloch"
+	},
+	{
+		"abr": "stygimolochegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggStygimolochFertilized"
+	},
+	{
+		"abr": "stygimolochmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Stygimoloch"
+	},
+	{
+		"abr": "therizinosaurus",
+		"price": 1000,
+		"category": "Tiere",
+		"defname": "Therizinosaurus"
+	},
+	{
+		"abr": "therizinosaurusegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggTherizinosaurusFertilized"
+	},
+	{
+		"abr": "therizinosaurusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Therizinosaurus"
+	},
+	{
+		"abr": "theropodleather",
+		"price": 6,
+		"category": "Leder",
+		"defname": "Leather_Theropod"
+	},
+	{
+		"abr": "triceratops",
+		"price": 2500,
+		"category": "Tiere",
+		"defname": "Triceratops"
+	},
+	{
+		"abr": "triceratopsegg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggTriceratopsFertilized"
+	},
+	{
+		"abr": "triceratopshorn",
+		"price": 1917,
+		"category": "Objekte",
+		"defname": "TriceratopsHorn"
+	},
+	{
+		"abr": "triceratopsmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Triceratops"
+	},
+	{
+		"abr": "tyrannosaurusleather",
+		"price": 13,
+		"category": "Leder",
+		"defname": "Leather_Tyrannosaurus"
+	},
+	{
+		"abr": "tyrannosaurusrex",
+		"price": 6000,
+		"category": "Tiere",
+		"defname": "TyrannosaurusRex"
+	},
+	{
+		"abr": "tyrannosaurusrexegg(fert.)",
+		"price": 233,
+		"category": "Ei (befr.)",
+		"defname": "EggTyrannosaurusRexFertilized"
+	},
+	{
+		"abr": "tyrannosaurusrexmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_TyrannosaurusRex"
+	},
+	{
+		"abr": "tyrannosaurusrexskull",
+		"price": 2500,
+		"category": "Objekte",
+		"defname": "TyrannosaurusRexSkull"
+	},
+	{
+		"abr": "utahraptor",
+		"price": 3333,
+		"category": "Tiere",
+		"defname": "Utahraptor"
+	},
+	{
+		"abr": "utahraptoregg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggUtahraptorFertilized"
+	},
+	{
+		"abr": "utahraptormeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Utahraptor"
+	},
+	{
+		"abr": "velociraptor",
+		"price": 3333,
+		"category": "Tiere",
+		"defname": "Velociraptor"
+	},
+	{
+		"abr": "velociraptoregg(fert.)",
+		"price": 50,
+		"category": "Ei (befr.)",
+		"defname": "EggVelociraptorFertilized"
+	},
+	{
+		"abr": "velociraptormeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Velociraptor"
+	},
+	{
+		"abr": "yutyrannus",
+		"price": 4500,
+		"category": "Tiere",
+		"defname": "Yutyrannus"
+	},
+	{
+		"abr": "yutyrannusegg(fert.)",
+		"price": 200,
+		"category": "Ei (befr.)",
+		"defname": "EggYutyrannusFertilized"
+	},
+	{
+		"abr": "yutyrannusmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Yutyrannus"
 	}
 	],
-	"total": 994
+	"total": 1108
 }

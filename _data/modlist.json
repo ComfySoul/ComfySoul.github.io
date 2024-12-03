@@ -50,8 +50,8 @@
   {
     "author": "Orion",
     "name": "Hospitality",
-    "steamId": null,
-    "version": null
+    "steamId": "753498552",
+    "version": "1.5.0.8"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
@@ -122,6 +122,12 @@
   {
     "author": "Gunmar(グンマー)",
     "name": "Neo Samurai",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
     "steamId": null,
     "version": null
   }
